@@ -237,3 +237,217 @@ mg:semoga
 smg:semoga
 gg:good game
 wp:well played
+psg: paris saint germain
+brp:berapa
+kans:peluang
+adlh:adalah
+pildun:piala dunia
+memenangi:memenangkan
+jwbnya:jawabnya
+dlm:dalam
+mnglhkan:mengalahkan
+dngan:dengan
+mmbwa:membawa
+devinisi:definisi
+pila:piala
+spt:seperti
+otw:on the way
+dinihari:dini hari
+arg:argentina
+mor:maroko
+moroko:maroko
+morocco:maroko
+lgi:lagi
+croatia:kroasia
+lbh:lebih
+croasia:kroasia
+sllu:selalu
+aq:aku
+dodo:ronaldo
+Seleção:selecao
+finalti:penalti
+boseeenn:bosan
+pinalti:penalti
+tapiiii:tapi
+smpai:sampai
+keknya:kayaknya
+predik:prediksi
+alhamdulilah:alhamdulillah
+allhamdulillah:alhamdulillah
+koreajapan:korea jepang
+moga:semoga
+terimakasi:terima kasih
+penalty:penalti
+nasebb:nasib
+jum'at:jumat
+lwn:lawan
+maroco:maroko
+francis:prancis
+pridiksinya:prediksinya
+ampe:sampai
+dukungny:dukungnya
+jugak:juga
+bismillaah:bismillah
+edyaaaaaan:gila
+gilak:gila
+gilaaaaaaaaaaaak:gila
+paduuuuu:padu
+permpat:perempat
+disemi:di semi
+tgl:tanggal
+tetep:tetap
+gilaak:gila
+wayahe:saatnya
+wes:sudah
+spain:spanyol
+kalini:kali ini
+goooooooool:gol
+cekidooootttt:check it out
+eng:inggris
+england:inggris
+fra:prancis
+jpn:jepang
+por:portugal
+ned:belanda
+esp:spanyol
+bra:brazil
+german:jerman
+japan:jepang
+jkt:jakarta
+mesti:harus
+germany:jerman
+ngeliat:melihat
+sumpeh:sumpah
+kyknya:kayaknya
+dhal:padahal
+denger:dengar
+cm:cuma
+taunnya:tahunnya
+jugaa:juga
+bngt:banget
+ijo:hijau
+bangettttt:banget
+w:aku
+sumpahhh:sumpah
+bagusssss:bagus
+bgtttttt:banget
+mascot:maskot
+inget:ingat
+gatau:tidak tahu
+ama:sama
+byknya:banyaknya
+diqatar:di qatar
+diwc:di wc
+gabisa:tidak bisa
+sepiii:sepi
+bangetttt:banget
+udahlah:sudahlah
+nginget:mengingat
+tbtb:tiba-tiba
+grgr:gara-gara
+kpn:kapan
+gblk:goblok
+eps:episode
+nangissss:nangis
+aamiinn:amin
+gokilll:gokil
+nangisss:nangis
+hbu:how about you
+dehh:deh
+gaes:guys
+siii:si
+ngeramein:meramaikan
+nayangin:menayangkan
+masi:masih
+nntn:nonton
+gaadda:tidak ada
+nnt:nanti
+begooo:bego
+tololll:tolol
+anjirrr:anjir
+setaaan:setan
+ibliss:iblis
+ksannya:kesannya
+pamungka:pamungkas
+emg:memang
+emang:memang
+turu:tidur
+ngedidik:mendidik
+iyak:iya
+orangtua:orang tua
+jele:jelek
+ortu:orang tua
+prenksident:presiden
+drpd:dari pada
+ngedukung:mendukung
+amrik:amerika
+ngebolehin:membolehkan
+mekriminalisasi:mengkriminalisasi
+maksain:memaksakan
+g:tidak
+km:kamu
+pemr:pemerintah
+sgla:segala
+krmahannya:keramahannya
+sbagian:sebagian
+spbola:sepak bola
+dl:dalam
+skg:sekarang
+trjadi:terjadi
+mo:mau
+retuit:retweet
+sbnrnya:sebenarnya
+bebel:bebal
+plavic:playing victim
+trs:terus
+mnta:minta
+ternyataaaa:ternyata
+mba:mbak
+lht:lihat
+jmn:jaman
+dceritain:diceritakan
+tmn:teman
+ktanya:katanya
+pngen:pengen
+dimerokok:di merokok
+gpp:tidak apa-apa
+alesan:alasan
+nerima:terima
+kuching:kucing
+emank:memang
+sono:sana
+prilaku:perilaku
+sebel:sebal
+tibatiba:tiba-tiba
+grupny:grupnya
+dh:deh
+ehh:eh
+najong:najis
+ad:ada
+ngenalin:mengenalkan
+aje:saja
+gamau:tidak mau
+nggausah:tidak usah
+lobang:lubang
+italy:italia
+blng:bilang
+ngemeng:ngomong
+acarany:acaranya
+lagibete:lagi bete
+efekny:efeknya
+kyk:kayak
+hrs:harus
+blg:bilang
+makasi:terima kasih
+sipaling:si paling
+ituu:itu
+dilakuin:dilakukan
+nggilani:menjijikan
+njijiki:menjijikan
+gawajar:tidak wajar
+bgmn:bagaimana
+dlu:dulu
+cmn:cuma
+ajasi:saja
+stright:straight
+noway: no way
