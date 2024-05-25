@@ -264,7 +264,7 @@ croasia:kroasia
 sllu:selalu
 aq:aku
 dodo:ronaldo
-Seleção:selecao
+sele:selecao
 finalti:penalti
 boseeenn:bosan
 pinalti:penalti
@@ -341,6 +341,7 @@ diwc:di wc
 gabisa:tidak bisa
 sepiii:sepi
 bangetttt:banget
+bangettt:banget
 udahlah:sudahlah
 nginget:mengingat
 tbtb:tiba-tiba
@@ -451,3 +452,346 @@ cmn:cuma
 ajasi:saja
 stright:straight
 noway: no way
+penaldo:ronaldo
+ahad:minggu
+brasil:brazil
+udh:sudah
+sampe:sampai
+tpi:tapi
+dateng:datang
+nyampe:sampai
+laeb:laeeb
+laa:laeeb
+la:laeeb
+eb:laeeb
+eeb:laeeb
+nebak:tebak
+america:amerika
+duni:dunia
+pake:pakai
+ngikut:ikut
+laib:laeeb
+rapet:rapat
+jum:jumat
+gills:gila
+gausah:tidak usah
+december:desember
+ksa:arab saudi
+belg:belgia
+can:kanada
+gotz:gotze
+seneng:senang
+pling:paling
+jk:jungkook
+monmaap:mohon maaf
+nyanyiin:menyanyikan
+ngisi:mengisi
+captain:kapten
+yt:youtube
+entab:entah
+human:manusia
+rights:hak asasi
+yaampun:ya ampun
+qur:alquran
+quran:alquran
+ngikutin:mengikuti
+goks:gokil
+blok:goblok
+tentuny:tentunya
+gara:gara-gara
+terjungkook:ter jungkook
+koriya:korea
+corea:korea
+korsel:korea
+adekku:adek ku
+jujurly:jujur
+puter:putar
+ajibb:ajib
+onta:unta
+cewe:cewek
+cowo:cowok
+kayanya:kayaknya
+jung kook:jungkook
+gaada:tidak ada
+kos:kost
+aga:agak
+endingnya:akhirnya
+ngejelekkin:menjelekkan
+grub:grup
+group:grup
+nutup:tutup
+pakek:pakai
+anggep:anggap
+samain:samakan
+tolerance:toleransi
+woman:perempuan
+kerasn:keras
+stafion:stadion
+untk:untuk
+sprti:seperti
+globlal:global
+susahny:susahnya
+alhamdulilah:allhamdulillah
+perhatiin:perhatikan
+beer:bir
+selelu:selalu
+tlg:tolongg
+adain:adakan
+ngk:tidak
+nyium:mencium
+dikasi:dikasih
+unt:untuk
+tololransi:toleransi
+ngalah:mengalah
+kekeuh:keukeuh
+kekeh:keukeuh
+pulkam:pulang kampung
+thd:terhadap
+miras:minuman keras
+britanya:beritanya
+nunjukin:menunjukkan
+poinya:poinnya
+pointnya:poinnya
+nolak:menolak
+sampek:sampai
+homphobicnya:homphobic nya
+twit:tweet
+gaboleh:tidak boleh
+disanaaaaa:di sana
+perin:perih
+yamg:yang
+tmpt:tempat
+bkn:bukan
+masiv:masif
+ndk:tidak
+mw:mau
+bhkn:bahkan
+gapapa:tidak apa-apa
+blh:boleh
+terseraaaah:terserah
+dsna:di sana
+stelah:setelah
+disana:di sana
+plandemi:pandemi
+kkurangan:kekurangan
+dri:diri
+sndiri:sendiri
+takbiirrr:takbir
+ato:atau
+gabakal:tidak bakal
+kesel:kesal
+bodoamat:bodo amat
+gasuka:tidak suka
+bosen:bosan
+tf:the fuck
+ponpes:ponpes
+bahka:bahkan
+truss:terus
+sex:seks
+laknatulloh:laknatullah
+masalahe:masalahnya
+konteksnys:konteksnya
+mksudnya:maksudnya
+ngerasa:merasa
+artny:artinya
+djwab:dijawab
+sprt:seperti
+mpe:sampai
+dmn:di mana
+mngkin:mungkin
+slh:salah
+trdkat:terdekat
+mnunjukan:menunjukkan
+ketidakberadabanny:ketidakberadabannya
+brsosial:bersosial
+kesanaaaaa:ke sana
+mmgnya:memangnya
+kbnykan:kebanyakan
+mreka:mereka
+mnolak:menolak
+ny:nya
+brarti:berarti
+trmsuk:termasuk
+byak:banyak
+pdhl:padahal
+klw:kalau
+bln:bulan
+dgunakan:digunakan
+lapangandi:lapangan di
+kad:kartu
+tatatertib:tata tertib
+krena:karena
+yakali:ya kali
+masalahnua:masalahnya
+kampanyekam:kapanyekan
+didalem:di dalam
+ngtren:ngetren
+apakh:apakah
+dlam:dalam
+psoalan:persoalan
+mjdi:menjadi
+knpa:kenapa
+mdkug:mendukung
+tindakn:tindakan
+tsebut:tersebut
+ngibarin:mengibarkan
+ngarep:berharap
+laen:lain
+diamanin:diamankan
+lagipula:lagi pula
+immigrant:imigran
+nangkap:menangkap
+dakbso:tidak bisa
+banged:banget
+kmrin:kemarin
+orng:orang
+tdak:tidak
+anis:anies
+bnyak:banyak
+kalean:kalian
+bgtu:begitu
+slama:selama
+nyerang:menyerang
+kambanye:kampanye
+lgbtshit:lgbt shit
+lgb:lgbt
+bla:bila
+pingin:ingin
+akhiiiii:akhi
+gtu:begitu
+apahhh:apa
+ngmg:ngomong
+yauda:ya sudah
+homofobia:homophobic
+nga:tidak
+riboott:ribut
+kzl:kesal
+kalok:kalau
+nyoba:mencoba
+nda:tidak
+negare:negara
+impactnye:dampaknya
+ngelegalkan:melegalkan
+mengahdirkan:menghadirkan
+dtg:datang
+dng:dengan
+klau:kalau
+ujan:hujan
+udhlah:sudahlah
+macem:macam
+ngehargain:menghargai
+dpn:depan
+najiwss:najis
+makasih:terima kasih
+tks:terima kasih
+lawack:lawak
+iki:ini
+nooo:no
+pwrhatiin:perhatikan
+buzerp:buzzerp
+nge bid:ngebid
+masalaahhh:masalah
+uda:sudah
+smua:semua
+pgn:pengen
+kampanyein:kampanyekan
+onelove:one love
+meraka:mereka
+legalin:legalkan
+trll:terlalu
+wataknta:wataknya
+kno:kenapa
+dibanned:di ban
+embung:tidak mau
+teu:tidak
+nggeus:sudah
+rinyuh:rayap
+ancemannya:ancamannya
+sbgian:sebagian
+mnyayangkan:menyayangkan
+kitu:begitu
+lbgt:lgbt
+otu:itu
+eljibitikyu:lgbtq
+indon:indonesia
+indo:indonesia
+spore:singapura
+singapore:singapura
+ap:apa
+ngomnh:ngomong
+sdhlah:sudahlah
+mascots:maskot
+comel:gemas
+nakkkk:nak
+bangeddd:banget
+luwucuk:lucu
+sape:siapa
+comei:lucu
+cuteee:lucu
+gilaaa:gila
+ki:ini
+nalare:nalar
+gemesin:gemas
+gemesnya:gemas
+comel:lucu
+nyaaa:nya
+bgtt:banget
+cute:lucu
+chekout:check out
+diaa:dia
+bingits:banget
+lucuuu:lucu
+gtw:tidak tahu
+comey:lucu
+seronok:seru
+pulak:pula
+tergemoyyy:tergemas
+chomel:lucu
+ketikanny:ketikannya
+bermai:bermain
+qtar:ketar
+qtir:ketir
+daritadi:dari tadi
+beliiii:beli
+bgttttt:banget
+agaak:agak
+bahkann:bahkan
+ngakakkk:ngakak
+ajaaaa:saja
+bangetttttt:banget
+gemess:gemas
+cesper:casper
+gemesh:gemas
+koyok:kayak
+hj:haji
+ver:version
+baruu:baru
+africa:afrika
+bgttt:banget
+cutee:lucu
+saeb:laeeb
+gtuan:begituan
+fikir:pikir
+lucuk:lucu
+pdahal:padahal
+gemesinn:menggemaskan
+casoer:casper
+kiut:lucu
+pompuan:perempuan
+knape:kenapa
+same:sama
+bangeets:banget
+comelnyaa:lucu
+seuseurian:ketawa
+poho:lupa
+kalogasalah:kalau tidak salah
+ti:dari
+imah:rumah
+pialadunia:piala dunia
+sbgai:sebagai
+bnyknya:banyaknya
+urng:kita
+stanis:setanis
+kesian:kasihan
+cape:capek
+gmana:bagaimana
