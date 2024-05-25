@@ -1480,6 +1480,7 @@ katanya
 kaya
 kayak
 kayaknya
+kayanya
 kazan
 kbk
 ke
@@ -3059,6 +3060,7 @@ ts
 tt
 ttd
 tu
+tua
 tubir
 tuh
 tuhan
