@@ -232,3 +232,4 @@ vs:versus
 twt:twitter
 ngumpulin:mengumpulkan
 perancis:prancis
+ajh:saja
