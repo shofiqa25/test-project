@@ -1,4 +1,5 @@
 a
+a
 a's
 aa
 aaaaaah
@@ -67,6 +68,7 @@ aian
 ain't
 aint
 aja
+aja
 ajadah
 ajaran
 ajha
@@ -84,9 +86,11 @@ al
 ala
 alam
 alfalah
+alhamdulillah
 alias
 alibabakemayoran
 all
+allah
 allahuakbar
 allium
 allow
@@ -113,6 +117,7 @@ amongst
 amoungst
 amount
 amp
+amp
 an
 ana
 anak
@@ -122,6 +127,7 @@ anda
 andalah
 ane
 ang
+anggap
 angon
 anjay
 anjiiiiir
@@ -182,6 +188,7 @@ around
 arpa
 arti
 artinya
+as
 as
 asa
 asal
@@ -254,6 +261,7 @@ bahkan
 bahwa
 bahwasanya
 baik
+baju
 bakal
 bakalan
 bakar
@@ -263,6 +271,8 @@ balik
 balikkin
 bandar
 bang
+bang
+banget
 banget
 bangsad
 bangsat
@@ -330,6 +340,7 @@ belumlah
 benar
 benarkah
 benarlah
+bener
 bener
 bentar
 benua
@@ -400,9 +411,11 @@ beyond
 bf
 bg
 bgt
+bgt
 bh
 bhoot
 bi
+biar
 biar
 bias
 biasa
@@ -413,8 +426,10 @@ bib
 big
 bika
 bikin
+bikin
 bila
 bilakah
+bilang
 bilang
 bilion
 bill
@@ -495,6 +510,7 @@ buu
 buy
 bv
 bw
+by
 by
 bye
 bz
@@ -618,6 +634,7 @@ dadah
 dadakno
 dagu
 dah
+dah
 dahulu
 dak
 dakgreen
@@ -651,6 +668,7 @@ degan
 degannya
 degea
 deh
+deh
 dekat
 deket
 del
@@ -670,6 +688,8 @@ design
 despite
 detail
 detik
+dgn
+dgn
 dhlah
 dhsjdnsj
 di
@@ -736,6 +756,7 @@ dimaksud
 dimaksudkan
 dimaksudkannya
 dimaksudnya
+dimana
 dimana
 diminta
 dimintai
@@ -806,6 +827,7 @@ dm
 dng
 do
 doang
+doang
 does
 doesn
 doesn't
@@ -871,6 +893,7 @@ eek
 effect
 eg
 eh
+eh
 ehe
 ehhh
 ei
@@ -885,6 +908,7 @@ eleh
 eleven
 else
 elsewhere
+emang
 emang
 emas
 empat
@@ -1003,17 +1027,22 @@ fyi
 g
 ga
 gablag
+gaboleh
 gais
+gak
+gak
 gamau
 gan
 ganteng
 gantipresiden
 gar
 gara
+gara
 garbage
 gas
 gasuka
 gatau
+gausah
 gave
 gb
 gd
@@ -1042,8 +1071,10 @@ gilagilagila
 gilagilagilagila
 gim
 gimana
+gimana
 gin
 gini
+gitu
 gitu
 give
 given
@@ -1091,12 +1122,15 @@ gt
 gtu
 gu
 gua
+gua
+gue
 gue
 guna
 gunakan
 gundul
 gus
 guys
+gw
 gw
 gy
 h
@@ -1170,6 +1204,7 @@ hed
 heehhe
 heh
 hehe
+hehe
 hehehe
 heheu
 hell
@@ -1239,6 +1274,7 @@ how's
 howbeit
 however
 hr
+hr
 hshshshs
 ht
 htm
@@ -1253,6 +1289,7 @@ hundred
 huuuu
 hwaaaaaaa
 i
+i
 i.e.
 i'd
 i'll
@@ -1266,6 +1303,7 @@ ibaratkan
 ibaratnya
 ibu
 id
+id
 idieeewww
 idjits
 idn
@@ -1277,6 +1315,7 @@ ih
 ihh
 ii
 ikut
+ikutan
 ikutji
 il
 ill
@@ -1288,6 +1327,7 @@ immediately
 imo
 importance
 important
+in
 in
 ina
 inasmuch
@@ -1359,6 +1399,7 @@ itukah
 itulah
 ive
 iya
+iya
 iyo
 j
 jadi
@@ -1381,6 +1422,7 @@ jawab
 jawaban
 jawabnya
 jawara
+jd
 je
 jebreeeteam
 jel
@@ -1391,6 +1433,7 @@ jelasnya
 jelek
 jenggotnya
 jerman
+jgn
 jika
 jikalau
 jinan
@@ -1431,6 +1474,7 @@ kagak
 kah
 kait
 kak
+kak
 kaka
 kakak
 kakean
@@ -1440,7 +1484,9 @@ kalau
 kalaulah
 kalaupun
 kali
+kali
 kalian
+kalo
 kami
 kamilah
 kampret
@@ -1467,6 +1513,8 @@ katannya
 katanya
 kaya
 kayak
+kayak
+kayaknya
 kayaknya
 kazan
 kbk
@@ -1542,6 +1590,7 @@ kkm
 klang
 klix
 klk
+klo
 km
 kmrn
 kn
@@ -1567,6 +1616,8 @@ kpd
 kpk
 kr
 krg
+krn
+krna
 kro
 kseruannya
 ku
@@ -1635,6 +1686,7 @@ li
 lidah
 life
 lihat
+lihat
 like
 liked
 likely
@@ -1647,6 +1699,7 @@ lions
 little
 lk
 ll
+lo
 lo
 loh
 lohme
@@ -1670,10 +1723,12 @@ lue
 luh
 lulus
 lupa
+lupa
 lurdulur
 lv
 ly
 m
+ma
 ma
 maap
 maba
@@ -1682,6 +1737,7 @@ mad
 made
 mae
 mager
+mah
 mah
 mahasiswa
 mainly
@@ -1815,6 +1871,7 @@ mendapatkan
 mendatang
 mendatangi
 mendatangkan
+mending
 menegaskan
 menemani
 mengabaikan
@@ -1967,6 +2024,7 @@ myself
 myt
 mz
 n
+n
 na
 nabung
 nad
@@ -1978,10 +2036,12 @@ naik
 nak
 nama
 namanya
+namanya
 name
 namely
 namun
 nan
+nang
 nano
 nanti
 nantinya
@@ -2055,6 +2115,7 @@ ni
 niatan
 nie
 nih
+nih
 nihh
 nii
 nine
@@ -2094,6 +2155,8 @@ numbers
 nung
 nw
 ny
+ny
+nya
 nya
 nyambi
 nyaring
@@ -2103,6 +2166,7 @@ nyayi
 nyekornya
 nyesek
 nyetel
+nyg
 nyocokinya
 nyungsep
 nz
@@ -2156,6 +2220,8 @@ opor
 oppa
 opposite
 or
+or
+orang
 orang
 orba
 ord
@@ -2198,6 +2264,7 @@ pagi
 pak
 pakai
 pakcik
+pake
 pake
 paket
 palagi
@@ -2286,6 +2353,7 @@ pihak
 pihaknya
 pikir
 pildek
+pilih
 pillit
 pin
 pinggir
@@ -2307,6 +2375,7 @@ pm
 pmid
 pn
 poh
+poin
 point
 pointed
 pointing
@@ -2380,6 +2449,7 @@ raso
 rata
 rather
 ratu
+rb
 rd
 re
 readily
@@ -2423,6 +2493,7 @@ round
 roy
 rp
 rt
+rt
 rtmklik
 ru
 rubah
@@ -2463,6 +2534,7 @@ sampai
 sampai-sampai
 sampaikan
 sampe
+sampe
 samson
 sana
 sang
@@ -2485,6 +2557,7 @@ sc
 scr
 sd
 sdg
+sdh
 sdh
 se
 sebab
@@ -2598,6 +2671,7 @@ semi
 semisal
 semisalnya
 semoga
+semoga
 sempak
 sempat
 sempena
@@ -2686,6 +2760,7 @@ showns
 shows
 shrs
 si
+si
 sia
 siap
 siapa
@@ -2699,6 +2774,7 @@ sie
 sieun
 significant
 significantly
+sih
 sih
 sihh
 sii
@@ -2784,6 +2860,7 @@ sufficiently
 suggest
 suka
 suku
+sumpah
 sup
 supaya
 supersport
@@ -2796,6 +2873,7 @@ sy
 syawal
 system
 sz
+t
 t
 t's
 ta
@@ -2835,11 +2913,13 @@ tarik
 tarikh
 taste
 tau
+tau
 taunya
 tawwa
 tayanga
 tc
 td
+tdk
 tegas
 tegasnya
 teh
@@ -2918,6 +2998,7 @@ that've
 thatll
 thats
 thatve
+the
 the
 their
 theirs
@@ -3020,6 +3101,7 @@ toward
 towards
 tp
 tps
+tq
 tr
 translate
 tribun
@@ -3034,7 +3116,10 @@ trying
 ts
 tt
 ttd
+tu
 tubir
+tuh
+tuh
 tuh
 tuhan
 tum
@@ -3068,6 +3153,7 @@ ubah
 ucap
 ucapnya
 udah
+udh
 ug
 ujang
 ujar
@@ -3123,6 +3209,7 @@ ussr
 ust
 usually
 ut
+utk
 uucp
 uy
 uz
@@ -3180,7 +3267,9 @@ wasnt
 waw
 wawan
 way
+way
 ways
+wc
 wc
 we
 we'd
@@ -3325,6 +3414,7 @@ xixixi
 xxi
 y
 ya
+ya
 yaaa
 yaaapp
 yaad
@@ -3354,6 +3444,7 @@ yek
 yes
 yessss
 yet
+ygdg
 ygs
 yha
 yo
