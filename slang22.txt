@@ -798,3 +798,6 @@ kasi:kasih
 cup:piala
 war:perang
 rispek:respects
+akutu:aku tuh
+dikutuk:di kutuk
+kutukan:kutuk
