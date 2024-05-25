@@ -796,3 +796,4 @@ cape:capek
 gmana:bagaimana
 kasi:kasih
 cup:piala
+war:perang
