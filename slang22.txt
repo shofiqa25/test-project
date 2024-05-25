@@ -226,3 +226,9 @@ sm:sama
 diem:diam
 pelangarannya:pelanggarannya
 kn:kan
+kemaren:kemarin
+udahan:sudah selesai
+vs:versus
+twt:twitter
+ngumpulin:mengumpulkan
+perancis:prancis
