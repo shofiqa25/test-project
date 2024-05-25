@@ -797,3 +797,4 @@ gmana:bagaimana
 kasi:kasih
 cup:piala
 war:perang
+rispek:respects
