@@ -721,7 +721,6 @@ ap:apa
 ngomnh:ngomong
 sdhlah:sudahlah
 mascots:maskot
-comel:gemas
 nakkkk:nak
 bangeddd:banget
 luwucuk:lucu
@@ -795,3 +794,5 @@ stanis:setanis
 kesian:kasihan
 cape:capek
 gmana:bagaimana
+kasi:kasih
+cup:piala
