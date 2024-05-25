@@ -1595,6 +1595,7 @@ kumpul
 kunci
 kunjung
 kurang
+kutu
 kw
 ky
 kz
